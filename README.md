@@ -1,5 +1,5 @@
 - 🌎 Olá, meu nome é Thiago Santos. Sou Desenvolvedor de Front-End e UI Designer.
-- 💼 Ferramentas: VSCode, Figma, Trello, Notion, GitHub.
+- 💼 Ferramentas: VSCode, Figma, Photoshop, Trello, Notion, GitHub.
 - 🦄 Habilidades: HTML, CSS, JavaScript, Sass, Bootstrap, Flex Box e Grid.
 - 📫  ...
 
